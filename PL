@@ -1,0 +1,6 @@
+L = int(input("Coloque o comprimento da sala:"))
+C = int(input("Coloque a largura da sala:"))
+AREA = L * C
+P= 2 * (L + C)
+print ("A área da sala é:", AREA)
+print ("O perímetro da sala é:", P) 
